@@ -26,6 +26,7 @@ After exceeding the package limits:
 1 GB of data: $7
 
 Objective:
+
 Analyze the data
 Describe the customers' behavior. Find the minutes, texts, and volume of data the users of each plan require per month. Calculate the mean, variance, and standard deviation. Plot histograms. Describe the distributions.
 
